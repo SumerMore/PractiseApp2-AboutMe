@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Sumer More</string>
+    <string name="string_name">string/name</string>
+    <string name="name_text">Sumer More</string>
+    <string name="bio">My name is Sumer;
+    \n\nI read in class 9th standard in Delhi. I am a self-driven and self motivated student.
+    \nI like to motivate my friends of the school always and help them in their difficult times.
+    \nI am a bright student of my school and do well in the academic and sports activities.
+    \nI am capable to do well under any stressful condition. I am very skilled and knowledgeable student in my school.
+    \nI do very hard study for long hours around the clock at home.
+    \nI never left my home works and class works incomplete and like to complete all before bed time. My teachers like me very much because of my goodness and punctuality. I never become tired and continuously do hard work because my parents take care of me always. They always become conscious for my health and diet.
+\n\n</string>
+    <string name="what_is_your_nickname">What Is Your Nickname?</string>
+    <string name="done">Done</string>
+    <string name="Done">DONE</string>
+</resources>
